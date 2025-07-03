@@ -1,0 +1,27 @@
+@media screen and (min-width: 1024px) {
+  .main-nav-list {
+    gap: 2.5rem;
+  }
+  .content-container {
+    padding: 5.1875rem 2.5rem;
+    max-width: 1024px;
+    margin: 0 auto;
+  }
+  .text-container {
+    gap: 1.5rem;
+  }
+  .text-container h1 {
+    font-size: 3.125rem;
+  }
+  .text-container span {
+    font-size: 0.875rem;
+    width: 23.125rem;
+  }
+  .form-container {
+    gap: 1.5rem;
+  }
+  .service-container {
+    max-width: 1024px;
+    margin: 0 auto;
+  }
+}/*# sourceMappingURL=desktopview.css.map */
