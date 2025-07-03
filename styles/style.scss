@@ -120,7 +120,7 @@ body{
     flex-direction: column;
     gap: 0.5rem;
     font-family: regular;
-     animation: rise 2s linear  1;
+     animation: rise 4s linear  1;
     h2{
         @include no-spacing();
         font-size: 1.125rem;
